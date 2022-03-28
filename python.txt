@@ -1,0 +1,5 @@
+python
+print (" hello world ")
+name = (" priya yadav ")
+age = 16 
+is_good = True 
